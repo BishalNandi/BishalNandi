@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://github.com/BishalNandi">
+  <img src="https://activity-graph.herokuapp.com/graph?username=BishalNandi&bg_color=151515&color=ffffff&line=3382ed&point=ffffff&area_color=1c1917&area=true&hide_border=false&custom_title=GitHub Commits Graph" alt="GitHub Commits Graph" alt="GitHub Commits Graph" />
+</a>
