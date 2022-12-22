@@ -3,7 +3,8 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nandi-bishal) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nandi-bishal) ![MELINKEDIN](https://user-images.githubusercontent.com/84246382/209061320-04f321e3-94d0-4372-af47-a8e87b6b12b9.jpg)
+
 
 
 # 💻 Tech Stack:
@@ -19,6 +20,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=Bishal Nandi&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+
 
