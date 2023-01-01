@@ -7,7 +7,7 @@
 
 
 
-![Graph]https://github-readme-activity-graph.cyclic.app/graph?username=BishalNandi&bg_color=141414&radius=5&line=79FF97&point=79FF97&color=FFFFFF&area_color=79FF97&area=true&hide_border=true)
+![Graph](https://github-readme-activity-graph.cyclic.app/graph?username=BishalNandi&bg_color=141414&radius=5&line=79FF97&point=79FF97&color=FFFFFF&area_color=79FF97&area=true&hide_border=true)
 
 
 # 💻 Tech Stack:
